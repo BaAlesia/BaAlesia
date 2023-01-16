@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m Alesia.
 - 👀 I am currently studying a new profession.
-- 🌱 Currently I have explored tools such as _GitBash, Postman, JS, Python, HTML, CSS, SQL, Visual Studio Code._
+- 🌱 Currently I have explored tools such as _GitBash, Postman, JS, Python, HTML, CSS, SQL, Visual Studio Code, Apache JMeter._
 - ✔I am looking for a remote or relocation job.
 - 📫 You can write me in Telegram @BDAle.
 
