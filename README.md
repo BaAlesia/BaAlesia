@@ -1,8 +1,12 @@
 # - 👋 Hi, I’m Alesia.
 - 👀 I am currently studying a new profession.
-- 🌱 Currently I have explored tools such as _GitBash, Postman, JS, Python, HTML, CSS, SQL, Visual Studio Code, Apache JMeter._
+- 🌱 I am currently learning tools such as SQL 
 - ✔I am looking for a remote or relocation job.
 - 📫 You can write me in Telegram @BDAle.
+---
+## 🛠 Languages and Tools:
+GitBash, Postman, DevTools, JavaScript, Python, HTML, CSS, Visual Studio Code, Apache JMeter, DBeaver, Obsidian
+
 
 <!---
 BaAlesia/BaAlesia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
