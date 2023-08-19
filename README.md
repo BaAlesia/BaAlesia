@@ -1,6 +1,5 @@
 # - 👋 Hi, I’m Alesia.
-- 👀 I am currently studying a new profession.
-- 🌱 I am currently learning tools such as SQL 
+- 👀 I am currently studying a new profession. 
 - ✔I am looking for a remote or relocation job.
 - 📫 You can write me in Telegram @BDAle.
 ---
