@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m Alesia.
 - 👀 I am currently studying a new profession. 
 - ✔I am looking for a remote or relocation job.
-- 📫 You can write me in Telegram @BDAle.
+- 📫 You can write me in Telegram @Les_QA
 ---
 ## 🛠 Languages and Tools:
 GitBash, Postman, DevTools, JavaScript, Python, HTML, CSS, Visual Studio Code, Apache JMeter, DBeaver, Obsidian, Jira, YouTrack, Android Debug Bridge
