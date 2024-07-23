@@ -3,8 +3,11 @@
 - ✔I am looking for a remote or relocation job.
 - 📫 You can write me in Telegram @Les_QA
 ---
-## 🛠 Languages and Tools:
-GitBash, Postman, DevTools, JavaScript, Python, HTML, CSS, Visual Studio Code, Apache JMeter, DBeaver, Obsidian, Jira, YouTrack, Android Debug Bridge
+## 🛠 Languages:
+JavaScript, Python
+
+## 🛠 Tools:
+GitBash, Postman, DevTools, HTML, CSS, Visual Studio Code, Apache JMeter, DBeaver, Obsidian, Jira, YouTrack, Android Debug Bridge, Browserstack
 
 ## My CV:
 [Link to my CV](https://docs.google.com/document/d/1mF-mALMyDr49ypkfKVcKPzEt8L3IsV7W9AiSPxyB14Y/edit)
